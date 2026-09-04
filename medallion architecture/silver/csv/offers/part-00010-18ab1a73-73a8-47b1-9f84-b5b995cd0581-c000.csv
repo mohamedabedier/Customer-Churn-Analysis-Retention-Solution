@@ -1,0 +1,34 @@
+customer_id,offer_id,offer_type,accepted,date_offered,accepted_flag,date_offered_key
+15709994,1236,Fee Waiver,false,2024-12-15,No,2024-12-15
+15722578,1290,Product Upgrade,true,2025-03-17,Yes,2025-03-17
+15758813,1492,Product Upgrade,false,2025-10-27,No,2025-10-27
+15657107,1601,Rate Discount,false,2026-08-05,No,2026-08-05
+15774854,200,Rate Discount,true,2025-04-19,Yes,2025-04-19
+15595537,2012,Cashback,true,2025-01-14,Yes,2025-01-14
+15672610,2020,Fee Waiver,true,2024-09-08,Yes,2024-09-08
+15814209,2115,Product Upgrade,false,2024-09-15,No,2024-09-15
+15680278,2138,Loyalty Bonus,false,2026-05-06,No,2026-05-06
+15606274,2363,Rate Discount,false,2025-04-18,No,2025-04-18
+15768816,2431,Loyalty Bonus,false,2026-08-25,No,2026-08-25
+15626233,2951,Rate Discount,false,2025-11-16,No,2025-11-16
+15782735,388,Product Upgrade,true,2025-09-29,Yes,2025-09-29
+15627377,3884,Fee Waiver,false,2026-06-22,No,2026-06-22
+15750658,428,Product Upgrade,true,2025-02-08,Yes,2025-02-08
+15801316,4546,Rate Discount,true,2024-12-06,Yes,2024-12-06
+15713774,4580,Product Upgrade,false,2025-05-23,No,2025-05-23
+15811773,495,Product Upgrade,true,2026-07-11,Yes,2026-07-11
+15591169,5059,Loyalty Bonus,false,2024-10-06,No,2024-10-06
+15674637,5101,Rate Discount,false,2025-03-19,No,2025-03-19
+15814035,521,Loyalty Bonus,true,2024-10-18,Yes,2024-10-18
+15743149,5458,Rate Discount,true,2024-09-13,Yes,2024-09-13
+15784180,5546,Loyalty Bonus,true,2025-05-08,Yes,2025-05-08
+15768342,6059,Product Upgrade,false,2025-10-04,No,2025-10-04
+15673238,6104,Loyalty Bonus,false,2025-08-28,No,2025-08-28
+15600792,6245,Fee Waiver,false,2025-11-12,No,2025-11-12
+15723873,625,Product Upgrade,true,2024-12-09,Yes,2024-12-09
+15572050,6527,Cashback,false,2025-12-03,No,2025-12-03
+15664681,6632,Loyalty Bonus,true,2026-06-07,Yes,2026-06-07
+15801351,6721,Rate Discount,false,2025-12-11,No,2025-12-11
+15667216,6991,Product Upgrade,false,2026-08-20,No,2026-08-20
+15612670,7101,Cashback,true,2025-02-02,Yes,2025-02-02
+15653572,7335,Fee Waiver,true,2025-05-11,Yes,2025-05-11

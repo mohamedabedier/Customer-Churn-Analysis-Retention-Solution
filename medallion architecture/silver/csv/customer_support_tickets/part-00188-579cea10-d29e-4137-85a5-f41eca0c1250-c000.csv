@@ -1,0 +1,59 @@
+customer_id,ticket_id,issue_type,severity,resolution_time_hrs
+15604119,899,Fraud Alert,Low,2.1
+15790757,1056,Fraud Alert,Low,1.4
+15630328,1361,Login Issue,Medium,9.4
+15729832,1525,Login Issue,Low,1.8
+15696900,1737,Login Issue,High,21.9
+15794874,2027,Loan Query,Low,1.0
+15576085,2560,Card Problem,Low,3.0
+15812198,2706,Fraud Alert,High,54.7
+15678284,3346,Card Problem,Medium,18.3
+15756241,3806,Card Problem,Medium,9.4
+15767793,3836,Billing,Medium,7.4
+15667751,4078,Login Issue,Medium,9.4
+15605000,4208,App Bug,Critical,25.3
+15654574,4215,Billing,High,12.4
+15766289,4256,Billing,Low,1.2
+15708791,4635,App Bug,High,31.3
+15734609,4838,Login Issue,Low,1.2
+15658668,4859,Card Problem,Low,1.1
+15635285,5058,Billing,Medium,7.9
+15578369,5083,Login Issue,Medium,6.5
+15714006,5211,Billing,Medium,11.2
+15761102,5556,Billing,Low,2.8
+15565706,5926,Billing,Medium,16.9
+15623478,6035,Login Issue,Medium,11.4
+15727489,6107,Fraud Alert,Medium,11.3
+15664498,6268,Billing,Low,1.3
+15802617,6416,Fraud Alert,Low,2.2
+15611024,6668,Fraud Alert,Medium,7.1
+15680046,6763,Billing,Low,2.6
+15811588,6768,Card Problem,Medium,5.6
+15690743,7113,Fraud Alert,Low,4.3
+15631721,7235,Card Problem,Medium,4.4
+15726634,8651,Fraud Alert,Low,1.9
+15572735,ticket_9111,Billing,Low,2.2
+15581332,9181,Login Issue,Medium,11.3
+15654531,9185,Login Issue,Medium,5.0
+15688085,9415,Fraud Alert,Low,1.0
+15743149,9488,Fraud Alert,Low,1.5
+15679961,9677,App Bug,Medium,5.1
+15655658,9833,App Bug,Critical,25.8
+15623668,10184,Card Problem,Medium,6.5
+15568469,10192,Billing,Medium,11.8
+15735968,10934,Login Issue,Medium,8.6
+15596379,10973,Login Issue,Critical,55.7
+15785326,11101,Loan Query,Low,2.1
+15639117,11311,Fraud Alert,Low,1.6
+15586236,11314,Billing,Critical,118.2
+15585985,11847,Login Issue,Low,2.2
+15743245,11870,Billing,Critical,28.9
+15661827,12194,Fraud Alert,Low,1.3
+15635703,12344,Billing,Medium,10.5
+15810826,12360,Card Problem,High,13.4
+15570002,12470,App Bug,Medium,15.6
+15728362,12717,Fraud Alert,Low,1.5
+15780215,ticket_13022,Login Issue,Low,1.7
+15690456,13418,Card Problem,Medium,6.2
+15646168,13478,Login Issue,Critical,51.6
+15752650,13786,Loan Query,Low,1.6

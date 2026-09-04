@@ -1,0 +1,58 @@
+customer_id,ticket_id,issue_type,severity,resolution_time_hrs
+15774854,314,Fraud Alert,Low,4.5
+15628112,367,Card Problem,High,17.5
+15684173,425,App Bug,Medium,6.5
+15712403,905,App Bug,High,49.7
+15715142,970,App Bug,Medium,4.4
+15654238,1046,App Bug,Low,1.7
+15641675,1079,Card Problem,Low,2.5
+15655274,1441,Billing,Low,2.5
+15600583,1450,Fraud Alert,High,6.5
+15658052,1781,App Bug,Medium,14.3
+15683124,2224,Login Issue,Medium,14.7
+15669410,ticket_2406,Card Problem,Medium,11.8
+15642833,2412,Login Issue,Low,2.6
+15714586,2985,Login Issue,Medium,5.1
+15689351,3460,Billing,High,41.2
+15771540,3678,Login Issue,High,15.5
+15682890,3832,Loan Query,High,25.3
+15772798,4182,Loan Query,Low,1.6
+15663939,4238,Login Issue,Low,1.9
+15610801,4296,App Bug,High,27.0
+15794493,4464,Loan Query,Low,2.0
+15787550,4527,Login Issue,Low,1.2
+15790564,4823,Loan Query,Medium,6.5
+15778154,5425,Login Issue,Medium,18.5
+15585490,5464,Loan Query,Medium,7.0
+15792064,5658,Card Problem,Low,4.6
+15664759,5822,Loan Query,Low,1.3
+15654000,6080,Loan Query,Medium,18.1
+15727408,6163,Billing,Medium,10.4
+15756425,6199,Loan Query,High,27.7
+15751491,6616,Billing,Low,4.9
+15592379,6824,App Bug,Medium,6.5
+15807167,6842,Card Problem,Medium,6.8
+15722122,6905,Fraud Alert,High,28.4
+15591091,7896,Card Problem,Low,4.2
+15573171,7917,Billing,Medium,14.5
+15632665,8018,Fraud Alert,High,23.2
+15641004,8228,Fraud Alert,High,32.9
+15641934,8252,Login Issue,Medium,16.1
+15697480,8400,Loan Query,Critical,57.3
+15608338,8744,Fraud Alert,Low,4.0
+15690695,8939,App Bug,Critical,35.4
+15815070,8995,Login Issue,Medium,4.6
+15682211,9004,Loan Query,High,13.7
+15683483,9416,Card Problem,Medium,4.8
+15569249,9720,Login Issue,Low,3.7
+15697460,9953,Loan Query,Low,2.9
+15751167,10173,Fraud Alert,Medium,7.2
+15649430,10544,Loan Query,Low,1.6
+15700046,10573,Billing,Low,1.1
+15745250,11260,Loan Query,Medium,7.8
+15669805,11542,App Bug,Medium,11.3
+15728838,11954,Loan Query,High,30.2
+15809265,12563,Login Issue,Low,2.3
+15723217,12568,App Bug,Medium,4.0
+15672082,12731,App Bug,Medium,11.8
+15653572,12823,Card Problem,Medium,16.2

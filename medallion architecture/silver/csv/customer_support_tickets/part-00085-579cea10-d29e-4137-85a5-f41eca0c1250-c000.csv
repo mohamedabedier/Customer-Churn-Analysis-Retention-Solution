@@ -1,0 +1,62 @@
+customer_id,ticket_id,issue_type,severity,resolution_time_hrs
+15773469,80,Billing,High,24.3
+15676966,133,Card Problem,High,21.0
+15772781,1294,App Bug,Low,3.4
+15628303,1338,Card Problem,Low,2.5
+15782899,1417,Login Issue,High,21.6
+15670702,2480,Billing,High,13.2
+15684267,2500,Card Problem,Low,2.6
+15646764,3341,App Bug,Medium,15.5
+15742272,3811,App Bug,Low,1.2
+15590228,4061,Login Issue,Medium,6.4
+15606836,4100,Fraud Alert,Medium,5.0
+15603246,4108,App Bug,Low,2.5
+15609653,4363,Loan Query,Medium,13.3
+15649668,4499,App Bug,Medium,6.6
+15640866,4726,Card Problem,Medium,9.9
+15637178,4784,Login Issue,Medium,5.7
+15713370,4899,Card Problem,Medium,7.4
+15578211,5313,App Bug,Low,1.0
+15653306,5451,Billing,Medium,4.5
+15814092,5631,App Bug,Low,2.6
+15640769,5698,Fraud Alert,Low,2.7
+15612893,6145,Loan Query,Low,3.0
+15605425,6152,Billing,Low,2.1
+15579112,6325,Card Problem,Low,1.1
+15627630,6381,Billing,Medium,4.8
+15672594,6586,Card Problem,Medium,5.0
+15785815,6593,App Bug,Low,2.4
+15688876,6749,App Bug,Medium,7.2
+15713346,6819,Card Problem,Low,1.5
+15614740,6847,Login Issue,High,23.5
+15726178,7502,Billing,High,32.6
+15596649,7531,App Bug,High,25.6
+15567442,7752,Loan Query,Medium,6.6
+15661945,7872,Loan Query,Medium,11.3
+15737133,7926,Billing,Low,3.0
+15735688,8374,Fraud Alert,Medium,11.6
+15743153,8417,Loan Query,Medium,9.6
+15752857,8438,Fraud Alert,Medium,10.2
+15711316,8507,Loan Query,Low,2.8
+15729238,8668,Fraud Alert,Medium,15.9
+15807473,8864,Login Issue,Medium,7.0
+15701352,8902,App Bug,High,6.5
+15681878,9340,Fraud Alert,Low,1.2
+15667002,9650,Billing,Medium,9.2
+15735221,10549,App Bug,Low,1.8
+15615296,10724,Loan Query,Low,3.2
+15707025,11030,Card Problem,Low,1.1
+15764491,11053,Fraud Alert,Medium,8.2
+15759480,11423,App Bug,Medium,10.7
+15696552,11547,Card Problem,Medium,11.6
+15717286,11657,Billing,Low,2.5
+15570857,11947,Card Problem,Low,2.1
+15727291,12075,Login Issue,Low,2.6
+15758451,12944,Fraud Alert,Low,2.0
+15786035,13221,Billing,Critical,62.6
+15643828,13326,Card Problem,Medium,5.4
+15728043,13339,App Bug,Medium,10.3
+15794236,13697,Login Issue,Critical,36.9
+15686917,13743,App Bug,High,33.0
+15731755,13828,Fraud Alert,Low,2.5
+15784042,13858,Fraud Alert,Low,3.1

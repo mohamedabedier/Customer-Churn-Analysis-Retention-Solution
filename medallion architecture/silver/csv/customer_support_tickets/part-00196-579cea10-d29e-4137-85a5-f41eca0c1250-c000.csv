@@ -1,0 +1,59 @@
+customer_id,ticket_id,issue_type,severity,resolution_time_hrs
+15718369,184,Loan Query,Low,2.2
+15613172,244,Billing,Low,1.1
+15620505,568,Fraud Alert,Low,2.5
+15653253,1152,Billing,Critical,55.8
+15712825,1164,Fraud Alert,Medium,10.8
+15772781,1295,Card Problem,Low,1.5
+15701602,1428,Card Problem,Medium,5.2
+15706534,1499,Loan Query,Low,1.5
+15685309,1612,Login Issue,Critical,92.3
+15702789,1784,App Bug,High,29.1
+15729975,1889,Loan Query,Medium,10.4
+15700212,2122,Login Issue,Low,4.0
+15569178,2383,Loan Query,High,21.6
+15796313,2489,Login Issue,Medium,6.5
+15612776,2544,Card Problem,High,33.6
+15579262,4045,Fraud Alert,Medium,7.6
+15658339,4092,Billing,Low,2.7
+15655123,4227,Billing,Low,4.6
+15574122,4718,Loan Query,Medium,6.0
+15721582,4780,App Bug,Medium,10.1
+15614230,4966,Login Issue,Low,2.6
+15601873,5102,Login Issue,High,17.0
+15597914,5681,Loan Query,Low,4.9
+15737571,5834,Billing,Low,1.6
+15598884,6049,Login Issue,High,25.8
+15791867,6067,Fraud Alert,Low,4.6
+15577970,6103,Card Problem,Low,1.9
+15575955,6243,Login Issue,Medium,5.7
+15604891,6484,Card Problem,High,31.8
+15614103,6526,Billing,High,59.1
+15786617,6578,Login Issue,Low,2.6
+15787322,6777,Card Problem,Medium,9.1
+15737556,7071,Login Issue,Medium,6.2
+15794849,7292,Login Issue,High,6.5
+15802466,7747,Loan Query,Medium,6.9
+15643158,8201,Login Issue,High,51.5
+15754526,8621,Login Issue,High,22.7
+15704340,8829,Fraud Alert,Medium,11.7
+15657829,8931,Login Issue,Low,3.9
+15780359,9136,App Bug,High,21.0
+15765258,9276,Fraud Alert,Medium,6.5
+15587297,ticket_10022,Loan Query,Low,1.7
+15657778,10061,Fraud Alert,High,15.1
+15638989,10077,Login Issue,High,20.5
+15684440,10083,Fraud Alert,Low,2.9
+15763579,10125,Login Issue,Low,1.8
+15665783,11025,Billing,Low,1.4
+15653275,11046,App Bug,Medium,6.5
+15741180,11436,Loan Query,Low,2.7
+15702434,11483,Fraud Alert,Medium,6.5
+15723064,12254,Loan Query,Medium,8.4
+15714642,12290,App Bug,Low,2.1
+15768233,12422,Billing,Medium,14.5
+15693637,12656,Loan Query,Critical,61.0
+15666095,12741,Loan Query,Critical,103.6
+15657306,13097,App Bug,High,6.5
+15665521,13314,App Bug,High,19.4
+15696355,13916,Login Issue,High,29.1

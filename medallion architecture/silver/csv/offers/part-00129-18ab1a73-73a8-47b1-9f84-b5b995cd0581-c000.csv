@@ -1,0 +1,35 @@
+customer_id,offer_id,offer_type,accepted,date_offered,accepted_flag,date_offered_key
+15716822,1186,Rate Discount,true,2025-11-13,Yes,2025-11-13
+15718106,1319,Fee Waiver,false,2025-11-15,No,2025-11-15
+15630910,153,Fee Waiver,true,2025-11-09,Yes,2025-11-09
+15682600,1914,Rate Discount,true,2025-02-14,Yes,2025-02-14
+15614878,2083,Rate Discount,false,2026-03-07,No,2026-03-07
+15788946,2132,Cashback,true,2024-10-31,Yes,2024-10-31
+15811490,259,Cashback,true,2026-02-23,Yes,2026-02-23
+15580134,3269,Loyalty Bonus,false,2025-07-17,No,2025-07-17
+15622230,3835,Fee Waiver,false,2025-07-28,No,2025-07-28
+15716619,3862,Loyalty Bonus,true,2026-01-28,Yes,2026-01-28
+15747014,4367,Rate Discount,true,2025-12-03,Yes,2025-12-03
+15732265,4574,Loyalty Bonus,true,2025-05-03,Yes,2025-05-03
+15771573,48,Loyalty Bonus,true,2026-05-08,Yes,2026-05-08
+15706128,4957,Rate Discount,false,2025-08-31,No,2025-08-31
+15675337,5024,Loyalty Bonus,false,2024-11-19,No,2024-11-19
+15582154,5033,Product Upgrade,true,2026-01-06,Yes,2026-01-06
+15754820,5090,Product Upgrade,true,2025-10-08,Yes,2025-10-08
+15766734,5915,Fee Waiver,true,2024-11-19,Yes,2024-11-19
+15728082,6031,Rate Discount,true,2025-12-27,Yes,2025-12-27
+15677387,6215,Rate Discount,"",2024-11-20,Unknown,2024-11-20
+15798844,6229,Product Upgrade,true,2025-07-01,Yes,2025-07-01
+15652030,6370,Product Upgrade,true,2024-10-24,Yes,2024-10-24
+15623858,6815,Fee Waiver,true,2025-05-29,Yes,2025-05-29
+15711687,6973,Product Upgrade,true,2024-09-06,Yes,2024-09-06
+15714642,7036,Loyalty Bonus,true,2025-09-24,Yes,2025-09-24
+15765345,7061,Loyalty Bonus,true,2025-07-08,Yes,2025-07-08
+15775627,7393,Cashback,false,2026-05-28,No,2026-05-28
+15575486,7456,Cashback,true,2026-07-22,Yes,2026-07-22
+15678057,7706,Cashback,true,2025-03-03,Yes,2025-03-03
+15578098,7759,Cashback,false,2026-05-31,No,2026-05-31
+15609735,7776,Product Upgrade,false,2026-03-20,No,2026-03-20
+15603454,7965,Loyalty Bonus,false,2025-11-03,No,2025-11-03
+15735078,7982,Product Upgrade,true,2025-11-15,Yes,2025-11-15
+15649211,offer_7694,Product Upgrade,true,2024-11-24,Yes,2024-11-24

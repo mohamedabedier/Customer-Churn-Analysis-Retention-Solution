@@ -1,0 +1,58 @@
+customer_id,ticket_id,issue_type,severity,resolution_time_hrs
+15701354,6,Card Problem,Low,1.0
+15760085,175,Card Problem,Low,2.1
+15625524,247,Card Problem,Medium,11.3
+15745088,519,Loan Query,Low,2.2
+15741336,1357,Loan Query,High,51.2
+15660316,1570,Billing,Critical,28.8
+15800434,1866,Login Issue,Critical,104.9
+15709117,1869,Login Issue,Medium,11.2
+15723006,1949,Billing,Low,1.5
+15576517,2247,Billing,Medium,8.0
+15755868,2326,Card Problem,Medium,9.2
+15605263,2553,Billing,Medium,8.2
+15666043,2859,Billing,High,31.0
+15583049,3742,App Bug,Low,2.0
+15591577,3819,Loan Query,Medium,5.5
+15618225,3905,App Bug,Low,2.8
+15781702,3954,Login Issue,Medium,4.8
+15594084,4068,Billing,Medium,6.0
+15614187,4431,Loan Query,Medium,6.8
+15791216,4909,Login Issue,Low,3.1
+15723263,5040,Loan Query,Medium,5.5
+15740283,5523,Fraud Alert,Low,2.5
+15609545,5541,Card Problem,High,12.7
+15627665,5627,Billing,Medium,15.3
+15737071,5654,Loan Query,Low,4.7
+15691952,5741,App Bug,Low,2.2
+15756894,6004,Billing,Low,1.9
+15616555,6187,Loan Query,High,20.1
+15802617,6417,Login Issue,Low,2.9
+15649292,6531,Loan Query,Low,3.2
+15687903,7088,Loan Query,Low,2.9
+15707479,7236,Billing,Low,2.9
+15800514,7901,Card Problem,Medium,14.7
+15749401,8565,Card Problem,High,53.6
+15745399,8927,Loan Query,Low,1.4
+15731412,8982,App Bug,High,14.0
+15789313,9047,App Bug,Low,4.5
+15575399,9244,Card Problem,Low,2.1
+15668767,9250,Loan Query,High,20.9
+15800583,9447,Loan Query,Low,1.5
+15742607,9694,Loan Query,Low,2.8
+15769451,9757,Fraud Alert,Low,2.3
+15712877,9988,Card Problem,Medium,9.8
+15592914,10062,App Bug,Medium,11.0
+15630592,10398,Billing,Medium,17.7
+15665374,10692,Billing,Critical,36.8
+15595991,10867,Loan Query,Medium,5.8
+15697691,11196,Login Issue,Low,2.0
+15755521,11710,Billing,Low,5.0
+15792862,12622,Loan Query,High,50.8
+15686743,13279,App Bug,Medium,11.2
+15716085,13378,App Bug,Low,4.0
+15640407,13391,Loan Query,Medium,6.5
+15646168,ticket_13477,App Bug,Low,2.9
+15797149,13548,Fraud Alert,Medium,8.8
+15650424,13671,Card Problem,Low,1.4
+15650424,13674,App Bug,Low,3.9

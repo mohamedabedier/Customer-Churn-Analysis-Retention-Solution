@@ -1,0 +1,35 @@
+customer_id,offer_id,offer_type,accepted,date_offered,accepted_flag,date_offered_key
+15714993,1153,Product Upgrade,"",2025-05-09,Unknown,2025-05-09
+15594408,129,Fee Waiver,true,2026-04-16,Yes,2026-04-16
+15807595,1364,Product Upgrade,true,2025-11-16,Yes,2025-11-16
+15642833,1366,Loyalty Bonus,true,2025-06-13,Yes,2025-06-13
+15806880,1546,Rate Discount,true,2026-03-14,Yes,2026-03-14
+15752953,1626,Fee Waiver,true,2026-03-27,Yes,2026-03-27
+15814209,2114,Product Upgrade,true,2025-01-16,Yes,2025-01-16
+15807909,2472,Product Upgrade,false,2025-02-06,No,2025-02-06
+15644296,2499,Rate Discount,true,2025-11-01,Yes,2025-11-01
+15662067,2515,Loyalty Bonus,false,2025-06-16,No,2025-06-16
+15683758,2651,Rate Discount,false,2026-04-16,No,2026-04-16
+15574213,3416,Loyalty Bonus,true,2025-09-13,Yes,2025-09-13
+15615624,368,Rate Discount,true,2025-01-18,Yes,2025-01-18
+15613017,3680,Rate Discount,false,2026-07-21,No,2026-07-21
+15605020,3845,Loyalty Bonus,true,2025-01-16,Yes,2025-01-16
+15796434,4206,Fee Waiver,true,2024-11-18,Yes,2024-11-18
+15702190,4227,Cashback,true,2025-04-07,Yes,2025-04-07
+15699446,4501,Cashback,true,2024-11-15,Yes,2024-11-15
+15725882,4688,Loyalty Bonus,false,2025-07-02,No,2025-07-02
+15737961,4695,Rate Discount,true,2026-07-27,Yes,2026-07-27
+15658813,4795,Fee Waiver,false,2026-08-12,No,2026-08-12
+15805690,4849,Loyalty Bonus,false,2026-03-10,No,2026-03-10
+15577423,5157,Product Upgrade,false,2024-10-08,No,2024-10-08
+15650538,5274,Cashback,false,2024-12-20,No,2024-12-20
+15753591,5641,Loyalty Bonus,true,2026-05-18,Yes,2026-05-18
+15674991,579,Rate Discount,true,2026-08-22,Yes,2026-08-22
+15593178,5897,Product Upgrade,false,2024-10-20,No,2024-10-20
+15660263,5993,Product Upgrade,false,2024-10-29,No,2024-10-29
+15596379,6276,Product Upgrade,true,2025-10-17,Yes,2025-10-17
+15612418,6298,Loyalty Bonus,true,2025-04-27,Yes,2025-04-27
+15601324,6467,Fee Waiver,true,2026-03-12,Yes,2026-03-12
+15772383,6767,Loyalty Bonus,false,2024-10-11,No,2024-10-11
+15596624,7724,Loyalty Bonus,"",2026-04-19,Unknown,2026-04-19
+15810563,7933,Product Upgrade,false,2025-02-06,No,2025-02-06

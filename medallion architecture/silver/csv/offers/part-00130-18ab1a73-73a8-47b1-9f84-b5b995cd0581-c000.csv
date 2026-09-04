@@ -1,0 +1,37 @@
+customer_id,offer_id,offer_type,accepted,date_offered,accepted_flag,date_offered_key
+15794014,1225,Cashback,false,2026-03-16,No,2026-03-16
+15643438,1390,Fee Waiver,false,2025-07-05,No,2025-07-05
+15684267,1430,Product Upgrade,true,2026-01-14,Yes,2026-01-14
+15737506,1581,Product Upgrade,false,2025-10-17,No,2025-10-17
+15709846,1640,Product Upgrade,true,2026-04-18,Yes,2026-04-18
+15735246,1768,Product Upgrade,false,2025-12-03,No,2025-12-03
+15614929,1881,Rate Discount,false,2026-08-02,No,2026-08-02
+15691446,1980,Product Upgrade,true,2025-05-27,Yes,2025-05-27
+15685500,217,Rate Discount,true,2026-07-21,Yes,2026-07-21
+15576360,2302,Product Upgrade,true,2026-01-19,Yes,2026-01-19
+15601550,2624,Product Upgrade,"",2025-02-19,Unknown,2025-02-19
+15723169,3062,Rate Discount,true,2025-09-13,Yes,2025-09-13
+15779809,3362,Product Upgrade,false,2026-08-15,No,2026-08-15
+15779522,3598,Rate Discount,false,2025-09-02,No,2025-09-02
+15808674,3792,Product Upgrade,false,2024-10-24,No,2024-10-24
+15749489,3820,Loyalty Bonus,false,2026-02-01,No,2026-02-01
+15804131,3869,Rate Discount,false,2025-09-14,No,2025-09-14
+15681887,4715,Fee Waiver,true,2024-11-05,Yes,2024-11-05
+15730076,500,Product Upgrade,false,2025-04-15,No,2025-04-15
+15643916,5225,Rate Discount,false,2025-09-07,No,2025-09-07
+15609070,5736,Rate Discount,false,2026-08-10,No,2026-08-10
+15698749,5930,Fee Waiver,false,2025-07-09,No,2025-07-09
+15755416,6274,Cashback,true,2025-06-14,Yes,2025-06-14
+15791533,6519,Product Upgrade,true,2025-06-24,Yes,2025-06-24
+15772503,6598,Rate Discount,true,2025-09-23,Yes,2025-09-23
+15702601,6828,Cashback,true,2024-12-08,Yes,2024-12-08
+15799641,6932,Fee Waiver,false,2026-08-28,No,2026-08-28
+15595350,6953,Product Upgrade,true,2024-10-31,Yes,2024-10-31
+15653347,7226,Loyalty Bonus,false,2024-11-25,No,2024-11-25
+15645371,7454,Fee Waiver,true,"",Yes,1900-01-01
+15784010,7571,Fee Waiver,false,2025-08-01,No,2025-08-01
+15785358,7810,Cashback,false,2025-03-25,No,2025-03-25
+15752626,7848,Rate Discount,false,2025-04-10,No,2025-04-10
+15588839,8014,Loyalty Bonus,true,2024-09-19,Yes,2024-09-19
+15810218,833,Product Upgrade,false,2025-06-12,No,2025-06-12
+15671209,950,Fee Waiver,true,2025-11-30,Yes,2025-11-30

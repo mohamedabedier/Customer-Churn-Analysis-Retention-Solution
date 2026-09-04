@@ -1,0 +1,58 @@
+customer_id,ticket_id,issue_type,severity,resolution_time_hrs
+15737173,23,Card Problem,Low,1.0
+15758449,537,Billing,Low,2.5
+15728505,807,App Bug,Low,1.4
+15673570,1040,Billing,Low,1.5
+15582741,1105,Fraud Alert,Medium,14.5
+15695846,1201,Loan Query,Low,21.5
+15727915,1216,Login Issue,Critical,60.8
+15678886,1573,App Bug,Low,1.9
+15609510,1837,Billing,Low,1.9
+15748797,1992,Login Issue,High,31.9
+15801548,2150,Billing,Critical,67.8
+15791302,2156,Login Issue,High,27.9
+15801062,2299,Fraud Alert,Medium,10.5
+15809006,2399,Card Problem,Low,1.5
+15693381,2521,App Bug,Critical,28.1
+15633043,2849,Login Issue,Medium,7.3
+15792222,2889,Fraud Alert,Medium,7.2
+15581440,3313,Fraud Alert,Critical,30.9
+15670914,3432,Billing,Low,1.7
+15630920,3830,Card Problem,Low,2.9
+15697424,4399,Loan Query,Medium,12.3
+15684147,5839,Billing,Critical,69.3
+15677906,5991,Loan Query,Low,1.4
+15657449,6582,Billing,Low,1.8
+15788556,6688,Loan Query,High,13.8
+15713949,6739,App Bug,Low,2.1
+15804862,6970,App Bug,Critical,58.2
+15602851,7057,Billing,Critical,71.9
+15718465,7196,Login Issue,Low,2.6
+15576641,7381,Billing,Medium,4.9
+15788022,8117,Card Problem,High,35.1
+15753888,8134,Billing,High,14.3
+15604146,8606,Login Issue,Medium,6.6
+15679429,8662,Billing,Low,1.5
+15682914,8673,Billing,Low,2.1
+15681115,9331,Login Issue,Medium,10.3
+15784180,9657,Billing,Low,6.5
+15625713,9667,Loan Query,Medium,8.0
+15715750,9782,Billing,Medium,18.6
+15667451,9894,Loan Query,Medium,9.6
+15720353,10088,Loan Query,High,31.6
+15805261,10739,Billing,High,27.7
+15693893,10904,Login Issue,Medium,8.6
+15735784,10920,Billing,Low,1.8
+15697201,10991,Loan Query,Medium,9.9
+15695097,11128,Login Issue,High,35.9
+15750574,11133,Card Problem,Low,2.1
+15613292,11418,Billing,Low,1.3
+15607560,11474,App Bug,Medium,6.5
+15699095,11942,Billing,Low,4.4
+15718667,12173,Login Issue,Low,1.5
+15810444,12331,Fraud Alert,Low,3.2
+15603764,12407,Card Problem,Medium,9.4
+15775627,12918,Login Issue,Low,3.0
+15705383,12956,App Bug,Low,1.9
+15780256,13041,Card Problem,Low,2.8
+15814405,13079,Billing,Low,4.1

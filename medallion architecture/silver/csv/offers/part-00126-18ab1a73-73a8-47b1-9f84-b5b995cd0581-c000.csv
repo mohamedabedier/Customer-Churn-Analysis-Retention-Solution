@@ -1,0 +1,33 @@
+customer_id,offer_id,offer_type,accepted,date_offered,accepted_flag,date_offered_key
+15646276,1126,Fee Waiver,false,2026-01-08,No,2026-01-08
+15678727,1478,Loyalty Bonus,false,2024-12-11,No,2024-12-11
+15623595,150,Rate Discount,true,2026-01-07,Yes,2026-01-07
+15617617,1672,Loyalty Bonus,false,2025-06-18,No,2025-06-18
+15596088,2082,Cashback,false,2025-08-02,No,2025-08-02
+15644724,2225,Fee Waiver,true,2025-05-29,Yes,2025-05-29
+15631868,269,Cashback,true,2026-01-28,Yes,2026-01-28
+15624528,277,Rate Discount,true,2024-11-08,Yes,2024-11-08
+15587240,4143,Rate Discount,true,2026-02-10,Yes,2026-02-10
+15625819,4209,Fee Waiver,true,2026-04-11,Yes,2026-04-11
+15713774,4581,Product Upgrade,true,2026-08-27,Yes,2026-08-27
+15772996,4707,Rate Discount,false,2025-02-15,No,2025-02-15
+15581323,4958,Unknown,true,2025-04-10,Yes,2025-04-10
+15815070,5175,Rate Discount,"",2025-06-26,Unknown,2025-06-26
+15686611,526,Rate Discount,true,2026-07-15,Yes,2026-07-15
+15814267,5375,Rate Discount,false,2026-02-08,No,2026-02-08
+15577988,5465,Product Upgrade,false,2024-11-10,No,2024-11-10
+15636767,5674,Product Upgrade,false,2026-07-06,No,2026-07-06
+15723884,5680,Fee Waiver,"",2025-01-22,Unknown,2025-01-22
+15765257,5698,Loyalty Bonus,"",2026-06-19,Unknown,2026-06-19
+15770406,6018,Rate Discount,true,2025-12-31,Yes,2025-12-31
+15812750,623,Product Upgrade,true,2025-05-03,Yes,2025-05-03
+15678427,6383,Loyalty Bonus,true,2026-07-21,Yes,2026-07-21
+15757895,6462,Rate Discount,false,2026-01-28,No,2026-01-28
+15600086,6511,Fee Waiver,false,2026-07-04,No,2026-07-04
+15750121,6646,Rate Discount,true,2026-04-10,Yes,2026-04-10
+15645600,7617,Fee Waiver,true,2026-01-20,Yes,2026-01-20
+15781689,7751,Rate Discount,true,2025-10-12,Yes,2025-10-12
+15655335,7763,Cashback,false,2025-09-05,No,2025-09-05
+15603883,7812,Rate Discount,"",2024-09-05,Unknown,2024-09-05
+15745324,794,Loyalty Bonus,false,2026-04-08,No,2026-04-08
+15589754,952,Product Upgrade,false,2025-04-13,No,2025-04-13

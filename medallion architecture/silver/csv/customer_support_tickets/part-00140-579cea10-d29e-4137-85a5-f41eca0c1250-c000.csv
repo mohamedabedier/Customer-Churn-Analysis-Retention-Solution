@@ -1,0 +1,73 @@
+customer_id,ticket_id,issue_type,severity,resolution_time_hrs
+15737888,9,Billing,Low,2.0
+15803716,514,Card Problem,Medium,4.5
+15600651,776,Billing,Low,1.8
+15657284,780,Billing,Low,1.4
+15709324,784,App Bug,Low,1.1
+15792328,1319,Fraud Alert,Medium,19.4
+15678886,1572,Login Issue,Low,1.1
+15781553,2294,App Bug,Low,1.4
+15659486,2464,Login Issue,Medium,9.2
+15753549,2525,Fraud Alert,Medium,15.1
+15766686,2651,Fraud Alert,Medium,4.9
+15692416,2765,Fraud Alert,Medium,5.2
+15658716,2866,Card Problem,Low,8.1
+15813412,2934,Loan Query,High,47.9
+15719561,2975,Billing,Low,2.5
+15750649,3059,Login Issue,Low,3.0
+15633930,3172,Fraud Alert,Critical,47.7
+15665438,3359,App Bug,Critical,46.7
+15778395,3395,Loan Query,High,6.5
+15639946,3856,Fraud Alert,Low,6.2
+15669411,4079,Loan Query,Medium,17.8
+15675791,4511,Billing,High,27.3
+15750335,4605,App Bug,High,46.0
+15708791,4634,Loan Query,Medium,8.3
+15767722,4849,Login Issue,Low,3.0
+15665340,4972,Fraud Alert,Medium,10.0
+15700383,4982,Loan Query,Low,1.6
+15759284,5156,Login Issue,Low,19.7
+15609704,5230,App Bug,Medium,11.1
+15701206,5540,Loan Query,Low,1.2
+15758013,5550,Fraud Alert,Low,2.5
+15720071,5616,Fraud Alert,High,55.2
+15750458,5771,Billing,Medium,5.9
+15758306,5862,Login Issue,Low,1.1
+15567335,5974,Loan Query,Critical,65.4
+15668248,6458,Loan Query,Low,4.0
+15615896,6803,Card Problem,High,19.1
+15655632,7221,Billing,Low,2.8
+15567246,7552,Billing,Medium,9.5
+15749671,7641,Loan Query,Low,1.4
+15681439,7843,Billing,Medium,8.0
+15631871,7859,Fraud Alert,Low,1.1
+15569764,7916,App Bug,Medium,6.2
+15720919,7936,Billing,Medium,18.8
+15642248,8064,Billing,Critical,71.3
+15640667,8354,App Bug,Medium,5.3
+15636423,8545,Card Problem,Medium,10.9
+15625761,8586,App Bug,Medium,14.2
+15591822,8914,Card Problem,Medium,6.7
+15792934,9212,Login Issue,Critical,65.8
+15654964,9432,Login Issue,High,17.1
+15760865,9625,Card Problem,High,17.0
+15663194,10127,Loan Query,Low,4.9
+15762716,10147,Billing,Low,1.7
+15613699,10625,Fraud Alert,Medium,6.5
+15797165,10942,Login Issue,Low,2.1
+15806796,11107,Billing,High,33.9
+15682928,11329,Login Issue,Low,2.1
+15625023,11557,Fraud Alert,Low,1.5
+15610343,11616,App Bug,Medium,18.3
+15757759,11641,Loan Query,Low,2.9
+15684395,11661,Billing,Medium,19.6
+15706799,11760,Fraud Alert,High,18.0
+15771749,11874,Fraud Alert,Critical,53.7
+15675794,12404,Card Problem,High,43.0
+15629519,12463,App Bug,Medium,8.5
+15726776,12753,Fraud Alert,Medium,9.5
+15766044,12907,App Bug,Low,4.0
+15574608,12991,App Bug,Low,2.7
+15675518,13153,Billing,High,16.9
+15617657,13264,Fraud Alert,High,28.3
+15691170,13727,App Bug,Low,2.6

@@ -1,0 +1,56 @@
+customer_id,ticket_id,issue_type,severity,resolution_time_hrs
+15703264,208,Fraud Alert,Low,2.2
+15590241,422,Loan Query,High,50.7
+15718443,653,Billing,High,17.6
+15686611,875,App Bug,High,21.4
+15636444,896,Billing,Low,2.6
+15724282,911,Login Issue,Low,2.2
+15655274,1442,Fraud Alert,Medium,9.0
+15593969,1480,Loan Query,Medium,17.4
+15750776,1656,Card Problem,Critical,27.1
+15671322,1820,App Bug,Low,1.2
+15584363,1853,Login Issue,Medium,8.5
+15660833,2153,Login Issue,Medium,8.6
+15697283,2176,Fraud Alert,Low,3.0
+15655574,2340,Card Problem,Low,2.7
+15675896,2378,Card Problem,Low,2.1
+15731478,2385,Login Issue,Medium,11.2
+15810786,2697,Loan Query,Medium,10.8
+15627262,2733,App Bug,Medium,11.5
+15578908,2949,Fraud Alert,Low,2.6
+15803749,3139,Login Issue,Low,2.8
+15592645,3477,Login Issue,Medium,11.6
+15753370,3590,Loan Query,Medium,11.4
+15590228,4058,App Bug,Medium,7.0
+15725794,4507,App Bug,Low,3.5
+15705298,4508,Loan Query,Low,2.9
+15755018,4670,Fraud Alert,Low,2.1
+15608166,4964,Fraud Alert,High,19.7
+15709004,5339,Billing,Medium,7.8
+15753847,5472,Card Problem,Low,1.9
+15663164,5598,Card Problem,Low,4.1
+15792180,5619,Card Problem,Critical,44.9
+15769272,5738,Card Problem,Medium,7.9
+15608406,5818,Card Problem,High,20.9
+15800287,6051,Loan Query,Low,4.2
+15702380,6723,Loan Query,Low,2.3
+15763256,6732,Loan Query,Medium,5.9
+15719858,6747,Card Problem,Critical,49.8
+15615322,6992,Fraud Alert,Low,2.1
+15711287,7297,Loan Query,Low,2.0
+15707322,7627,Fraud Alert,High,38.7
+15567431,8598,Card Problem,High,17.2
+15591512,9008,Fraud Alert,Medium,12.7
+15715532,9157,Fraud Alert,Low,1.1
+15669501,9749,Fraud Alert,Low,2.8
+15678497,10948,Login Issue,Low,1.9
+15613292,11416,Card Problem,Low,1.8
+15580043,11797,Card Problem,Low,1.2
+15771749,11875,Fraud Alert,Medium,4.9
+15633194,11990,Billing,Low,2.6
+15697510,12218,App Bug,High,35.7
+15580912,12953,Login Issue,Low,1.0
+15671934,13083,Loan Query,High,35.9
+15780409,13333,Loan Query,High,28.6
+15678057,13429,Billing,Medium,4.8
+15669414,13817,App Bug,Low,1.3
