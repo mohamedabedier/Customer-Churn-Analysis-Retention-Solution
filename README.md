@@ -129,8 +129,8 @@ Full project write-up, including detailed design decisions and data quality hand
 
 This project was built collaboratively by:
 
-- **Mohamed Abedier**
-- **Mohamed Elbana**
-- **Ahmed El Sharkawy**
-- **Mohamed Ahmed**
+- **Ahmed Elbana**
+- **Mohamed El Sharkawy**
+- **Mohamed Bedier**
 - **Mohamed Adel**
+- **Ahmed Mohamed**
