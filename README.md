@@ -134,6 +134,12 @@ See `Dashboard/Tableau Dashboard.twb` (preview in `images/Tableau Dashboard.jpeg
 
 Full project write-up, including detailed design decisions and data quality handling, is available in `Project Documentation/`.
 
-## 👤 Author
+## 👥 Team
 
-**Mohamed Abedier**
+This project was built collaboratively by:
+
+- **Mohamed Bedier**
+- **Ahmed Elbana**
+- **Mohamed El Sharkawy**
+- **Mohamed Adel**
+- **Ahmed Mohamed**
