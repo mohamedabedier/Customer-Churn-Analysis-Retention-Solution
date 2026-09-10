@@ -18,6 +18,8 @@ This project follows a **Medallion Architecture**:
 Bronze (Raw)  →  Silver (Cleaned)  →  Gold (Modeled / Star Schema)
 ```
 
+![Pipeline Architecture](images/pipeline.jpeg)
+
 | Layer | Purpose | Tech |
 |---|---|---|
 | **Bronze** | Raw ingestion from source systems, no transformation | Apache NiFi, HDFS |
@@ -43,20 +45,7 @@ Customer behavior lives across three different activity types (tickets, offers, 
 
 **Grain:** One row in the fact table = one customer activity event (a ticket, an offer, or a usage log entry).
 
-```
-                    ┌───────────────┐
-                    │  Dim_Customer │
-                    └───────┬───────┘
-                            │
-┌───────────┐       ┌───────────────────────┐       ┌────────────┐
-│ Dim_Ticket├───────┤ Fact_Customer_Activity ├───────┤ Dim_Offer  │
-└───────────┘       └───────┬───────┬───────┘       └────────────┘
-                            │       │
-                     ┌──────┘       └──────┐
-              ┌──────┴─────┐        ┌──────┴─────┐
-              │ Dim_Product│        │  Dim_Date  │
-              └────────────┘        └────────────┘
-```
+![Data Model](images/data%20modeling.png)
 
 - **Fact_Customer_Activity** — the central fact table; `event_type` distinguishes Ticket / Offer / Usage rows
 - **Dim_Customer** — customer profile plus two engineered features:
@@ -128,7 +117,9 @@ This keeps analytical queries fast, which matters directly for the business goal
 
 ## 📊 Dashboard
 
-See `Dashboard/Tableau Dashboard.twb` (preview in `images/Tableau Dashboard.jpeg`) for the customer churn analysis dashboard built on top of the Gold layer.
+See `Dashboard/Tableau Dashboard.twb` for the interactive workbook, or the preview below:
+
+![Tableau Dashboard](images/Tableau%20Dashboard.jpeg)
 
 ## 📄 Documentation
 
@@ -138,8 +129,8 @@ Full project write-up, including detailed design decisions and data quality hand
 
 This project was built collaboratively by:
 
-- **Mohamed Bedier**
-- **Ahmed Elbana**
-- **Mohamed El Sharkawy**
+- **Mohamed Abedier**
+- **Mohamed Elbana**
+- **Ahmed El Sharkawy**
+- **Mohamed Ahmed**
 - **Mohamed Adel**
-- **Ahmed Mohamed**
